@@ -20,7 +20,7 @@ Here is a list of ruby terms and definitions used in class.
 ## Part 2
 
 <em>**Conditional**</em> - expression checked allowing code logic to happen <br>
-<em>**The difference between if, elseif and else.**</em> - If executes if condition is true, elsif only if condition was fals and other condition true, and else if other conditions were false. <br>
+<em>**The difference between if, elseif and else.**</em> - If executes if condition is true, elsif only if condition was false and other condition true, and else if other conditions were false. <br>
 <em>**What are Case/When statements? </em> - statments which can check multiple conditions. Similar to switch statements in other languages. <br>
 <em>**What is a data structure? </em> - Data organization or storage that allows efficient access and modification of data. <rb>
 <em>**Arrays**</em> - A group of data or information <br>
